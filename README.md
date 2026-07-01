@@ -30,7 +30,7 @@ A local, offline AI terminal assistant for Linux. Lives in your KDE Plasma panel
 ## Quick Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dragon-shell.git
+git clone https://github.com/TheEmperor204/Dragon-shell.git
 cd dragon-shell
 bash install.sh
 ```
