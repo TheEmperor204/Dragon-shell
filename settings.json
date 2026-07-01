@@ -1,7 +1,0 @@
-{
-  "model": "qwen2.5-coder:14b",
-  "ollama_url": "http://localhost:11434",
-  "journal_path": "~/.local/share/dragon-shell/journal.log",
-  "ollama_timeout": 60,
-  "window_width": 760
-}
